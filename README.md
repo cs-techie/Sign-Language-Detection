@@ -1,2 +1,5 @@
 # American Sign Language Detection
-jgh
+#Mini Project
+Sharvani
+Ashmitha
+Shankar
